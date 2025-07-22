@@ -3,6 +3,13 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { 
   ChevronRight,
   ChevronDown,
+  Shield,
+  Users,
+  Lock,
+  Eye,
+  AlertTriangle,
+  Globe,
+  FileText,
 } from 'lucide-react';
 import GlassCard from './GlassCard';
 import Logo from './Logo';
